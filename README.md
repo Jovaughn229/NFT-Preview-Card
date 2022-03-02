@@ -23,6 +23,11 @@ Users should be able to:
 - View the optimal layout depending on their device's screen size
 - See hover states for interactive elements
 
+#Screenshot
+
+![NFT Preview](https://user-images.githubusercontent.com/56566585/156467763-0407fed3-b4c7-4925-873d-81a6ed62f87a.png)
+
+
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
@@ -45,7 +50,7 @@ a:hover, .equi:hover
     cursor: pointer;
   }
 
-  This give you the option of different cursor types while hovering.
+<!-- This give you the option of different cursor types while hovering. -->
 
 ```
 
