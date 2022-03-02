@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: []
+- Live Site URL: [https://jovaughn229.github.io/NFT-Preview-Card/)
 
 ## My process
 
@@ -49,10 +49,9 @@ a:hover, .equi:hover
   {
     cursor: pointer;
   }
-
-<!-- This give you the option of different cursor types while hovering. -->
-
+  
 ```
+<!-- This block of code give you the ability to select different cursor types while hovering. -->
 
 ### Continued development
 
