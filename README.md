@@ -44,6 +44,7 @@ Users should be able to:
 
 ### What I learned
 
+This block of code give you the ability to select different cursor types while hovering.
 ```css
 a:hover, .equi:hover
   {
@@ -51,7 +52,7 @@ a:hover, .equi:hover
   }
   
 ```
-<!-- This block of code give you the ability to select different cursor types while hovering. -->
+
 
 ### Continued development
 
