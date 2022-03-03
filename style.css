@@ -1,4 +1,5 @@
 body{
+  height: 100VH;
   font-family: 'Outfit', sans-serif;
   background-color: hsl(217, 54%, 11%);
 }
@@ -11,8 +12,8 @@ body{
 }
 .NFT{
   color: white;
-  width: 300px;
-  height: 500px;
+  width: 350px;
+  height: 600px;
   border-radius: 20px;
   margin:auto;
   text-align: center;
@@ -21,7 +22,7 @@ body{
 
 .eqimg
 {
-    position: relative;
+  position: relative;
   width: 300px;
   height: 300px;
   margin: 25px;
@@ -61,7 +62,7 @@ body{
     color: hsl(178, 100%, 50%);
     font-weight: 600;
     display:inline-block;
-    margin-right: 80px;
+    margin-right: 130px;
     font-size: 14px;
 }
 #span2
@@ -71,20 +72,25 @@ body{
   display:inline-block;
   font-size: 14px;
 }
-h1{
-    font-weight: 600;
+.equi{
+  
     font-size: 18px;
     text-align-last: left;
-    margin-left: 25px;
-    margin-bottom: 15px;
 }
 h2{
-    color: hsl(215, 51%, 70%);
+    color: white;
     text-align: left;
-    font-size: smaller;
     padding-left: 20px;
-    font-weight: 300;
-    padding-bottom: 20px;
+    font-weight: 600;
+}
+h3{
+  color: hsl(215, 51%, 70%);
+  text-align: left;
+  margin: 20px;
+  font-weight: 00;
+  font-size: 16px;
+  line-height: 1.5;
+  padding-bottom: 1px;
 }
 .eth
 {
@@ -109,12 +115,11 @@ h2{
   }
   hr
   {
-    width:250px ;
-    height:1px;
+    width:260px ;
+    height:2px;
     border-width:0;
-    margin:auto;
-    margin-top: 20px;
-    margin-bottom: 20px;
+    margin-top: 30px;
+    margin-bottom: 30px;
     color:hsl(215, 32%, 27%);
     background-color:hsl(215, 32%, 27%);
   }
@@ -122,14 +127,15 @@ h2{
     color: hsl(215, 51%, 70%);
     font-weight: 400;
     display:inline-block;
-    font-size: 18; 
+    text-align: left;
+    padding-left: 20px;
   }
   .creator
   {
     display: flex;
-    align-items: left;
-    justify-content: left;
-    padding-left: 20px;
+    flex-direction: row;
+    align-items: center;
+    margin: 15px 25px;
   }
   .avatar
   {
@@ -137,7 +143,7 @@ h2{
     width: 28px;
     height: 28px;
     border-radius: 50%;
-    border:  1px solid #fff;
+    border:  2px solid #fff;
     vertical-align: -8px;
     margin-right: 20px;
     
