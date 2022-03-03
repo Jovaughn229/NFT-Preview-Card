@@ -155,7 +155,7 @@ h3{
   a:hover, h2:hover 
   {
     color: hsl(178, 100%, 50%);
-	transition:  color .5s;
+  	transition:  color .5s;
   }
   a:hover, h2:hover
   {
