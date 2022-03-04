@@ -25,12 +25,11 @@ Users should be able to:
 
 #Screenshot
 
-![NFT Preview](https://user-images.githubusercontent.com/56566585/156467763-0407fed3-b4c7-4925-873d-81a6ed62f87a.png)
+![NFT Preview](https://user-images.githubusercontent.com/56566585/156844552-d60a0e3d-28a8-47c5-8da8-41b619f72c7a.png)
 
 
 ### Links
 
-- Solution URL: []
 - Live Site URL: [https://jovaughn229.github.io/NFT-Preview-Card/)
 
 ## My process
